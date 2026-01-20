@@ -1,5 +1,5 @@
 h1{
-    color: blue;
+    color: darkred;
     padding: 20px;
     width: 60%;
     margin: auto;
@@ -7,18 +7,30 @@ h1{
 }
 body{
     font-family: Arial;
-    background: rgb(19, 2, 48);
+    background: rgb(79, 209, 209);
      
     
 }
-#class{
-    background: greenyellow;
+#resume{
+    background: rgb(114, 12, 12);
+    padding: 20px;
+    width: 100%;
+    margin: auto;
+}
+#skill{
+    background: rgb(166, 207, 101);
     padding: 20px;
     width: 60%;
     margin: auto;
 }
-#git{
-     background: orangered;
+#education{
+    background: rgb(137, 127, 221);
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+}
+#experience{
+    background: rgb(101, 212, 175);
     padding: 20px;
     width: 60%;
     margin: auto;
