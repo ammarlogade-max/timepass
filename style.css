@@ -1,0 +1,25 @@
+h1{
+    color: blue;
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+    
+}
+body{
+    font-family: Arial;
+    background: rgb(19, 2, 48);
+     
+    
+}
+#class{
+    background: greenyellow;
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+}
+#git{
+     background: orangered;
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+}
